@@ -15,7 +15,7 @@ The goal is to explore the end-to-end machine learning workflow, from data prepr
 - Python
 - NumPy
 - Pandas
-- (Optional / as applicable: TensorFlow, PyTorch, or similar)
+- PyTorch
 
 ## Current Features
 - Feature encoding and data preprocessing pipelines
@@ -31,7 +31,7 @@ The goal is to explore the end-to-end machine learning workflow, from data prepr
 
 ## Project Status
 🚧 **In Progress**  
-This project is actively being developed and refined. Model performance and architecture are still being explored.
+This project is actively being developed and refined. Model performance and architecture are still being explored. The biggest problem with the model right now is a lack a data. If you would like to contribute data, aka your coffee order, I would greatly appreciate it if you filled out this form: https://forms.gle/ZrpbtmjwLdWdA5be8 (I am especially looking for more data on Americano, Cappuccino, and/or Espresso shot drinkers!)
 
 ## Future Improvements
 - Expand dataset and input feature space
@@ -40,4 +40,4 @@ This project is actively being developed and refined. Model performance and arch
 - Improve prediction interpretability
 
 ## Motivation
-As someone interested in both machine learning and everyday user-facing applications, I chose coffee preferences as a fun and practical domain to apply ML concepts.
+I love coffee, and I worked at Dunkin for 5 years. Due to this, I have a lot of knowledge about coffee, and have noticed how people’s coffee orders evolve over time. As someone who gives lots of good coffee recommendations, why not make a machine do it?
